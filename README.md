@@ -24,6 +24,15 @@ Sekcja do uzupełnienia. Obecnie prowadzona jest samodzielna nauka na podstawie 
 # Webinary, Meetupy
 [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 # Dokumentacja testowa
-Do uzupełnienia. Testy będą wykonywane na platformie [UTest](https://utest.com/about-us).
+Do uzupełnienia. Testy będą także wykonywane na platformie [UTest](https://utest.com/about-us).
+
+* Zgłośzenia Defektów
+
+* Raporty z Testowania
+
+* Przypadki testowe
+
+* Scenariusze testowe
+
 # Projekty
 Do uzupełnienia.
