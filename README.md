@@ -7,7 +7,7 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * **MS Excel** - advanced support, excluding macro support. I have been using this tool successively for years both at university and at work.
 * **Oracle database** - selected from other databases on the market due to functionality and popularity. For learning SQL and later PL/SQL. For educational purposes, a repository linked to my own database will be created, on which I will execute scripts.
 * **GIT** - program already installed locally to learn how to use it in the near future.
-* **SCRUM** - at the moment, I prefer the SCRUM methodology over Kanban due to the organization of the work system in sprints. The structure of the kanban table sounds very good in theory, but in practice I am afraid of excessive interference in changes of plans, which may lead to undesirable chaos. The structure of sprints (especially in a weekly mode) allows for a structured response, allowing you to set the highest priority for the most important tasks.
+* **SCRUM** - at the moment, I prefer the SCRUM methodology over Kanban due to the organization of the work system in sprints. The structure of the kanban table sounds very good in theory, but in practice I am afraid of excessive interference in changes of plans, which may lead to undesirable chaos.
 * **Jira** - for future learning. A free account has been created, which will be used for educational purposes after taking the appropriate course.
 # Courses
 Section to be filled. Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
