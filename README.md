@@ -9,7 +9,7 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * **GIT** - program already installed locally to learn how to use it in the near future.
 * **SCRUM** - at the moment, I prefer the SCRUM methodology over Kanban due to the organization of the work system in sprints. The structure of the kanban table sounds very good in theory, but in practice I am afraid of excessive interference in changes of plans, which may lead to undesirable chaos. The structure of sprints (especially in a weekly mode) allows for a structured response, allowing you to set the highest priority for the most important tasks.
 * **Jira** - for future learning. A free account has been created, which will be used for educational purposes after taking the appropriate course.
-# Courses taken
+# Courses
 Section to be filled. Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
