@@ -23,6 +23,7 @@ Section to be filled. Currently, self-study is conducted based on ISTQB FL sylla
 * [UTest](https://utest.com/about-us) - a destination for gaining experience on my own.
 * [Tester - Milena Bednarczyk blog](https://tester.milenabednarczyk.pl/)
 * [BugFree blog](https://bugfreeblog.com/)
+* [MrBuggy](http://mrbuggy.pl/)
 # Webinars, Meetups
 [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 # My Test documentation
