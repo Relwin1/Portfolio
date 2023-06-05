@@ -1,5 +1,5 @@
-# Portfolio
-Moje testerskie portfolio
+# Testerskie Portfolio
+
 # Sekcja o mnie
 
 # Narzędzia
