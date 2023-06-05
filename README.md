@@ -16,7 +16,7 @@ Sekcja do uzupełnienia. Obecnie prowadzona jest samodzielna nauka na podstawie 
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
 # Blogi, strony tematyczne
 * [Testerzy.pl](https://testerzy.pl/)
-* [Technika programowania YOUTUBE](https://www.youtube.com/@TechnikaProgramowania)
+* [Technika programowania](https://www.youtube.com/@TechnikaProgramowania)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [Interaktywny kurs języka SQL](https://brasil.cel.agh.edu.pl/~11smdrobniak/intro.html)
 * [Oracle DevGym](https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::) - Do przestudiowania po ukończenia dwóch powyższych linków z języka SQL i po powiązaniu bazy danych z repozytorium github.
