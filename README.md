@@ -20,7 +20,7 @@ Sekcja do uzupełnienia. Obecnie prowadzona jest samodzielna nauka na podstawie 
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [Interaktywny kurs języka SQL](https://brasil.cel.agh.edu.pl/~11smdrobniak/intro.html)
 * [Oracle DevGym](https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::) - Do przestudiowania po ukończenia dwóch powyższych linków z języka SQL i po powiązaniu bazy danych z repozytorium github.
-* [UTest - platforma do treningu testowania](https://utest.com/about-us) - docelowe miejsce do nabywania doświadczenia we własnym zakresie.
+* [UTest](https://utest.com/about-us) - docelowe miejsce do nabywania doświadczenia we własnym zakresie.
 # Webinary, Meetupy
 [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 # Dokumentacja testowa
