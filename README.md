@@ -7,10 +7,11 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * **MS Excel** - advanced support, excluding macro support. I have been using this tool successively for years both at university and at work.
 * **Oracle database** - selected from other databases on the market due to functionality and popularity. For learning SQL and later PL/SQL. For educational purposes, a repository linked to my own database will be created, on which I will execute scripts.
 * **GIT** - program already installed locally to learn how to use it in the near future.
-* **SCRUM** - at the moment, I prefer the SCRUM methodology over Kanban due to the organization of the work system in sprints. The structure of the kanban table sounds very good in theory, but in practice I am afraid of excessive interference in changes of plans, which may lead to undesirable chaos.
 * **Jira** - for future learning. A free account has been created, which will be used for educational purposes after taking the appropriate course.
 # Courses
-Section to be filled. Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
+* Section to be filled. Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
+* Currently looking into course below, decision to be made in 2-3 weeks.
+* [Sii - Zostań testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
@@ -24,6 +25,8 @@ Section to be filled. Currently, self-study is conducted based on ISTQB FL sylla
 * [Tester - Milena Bednarczyk blog](https://tester.milenabednarczyk.pl/)
 * [BugFree blog](https://bugfreeblog.com/)
 * [MrBuggy](http://mrbuggy.pl/)
+* [Testuj.pl](https://www.youtube.com/@testujplcommunity/featured)
+* [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # Webinars, Meetups
 [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 # My Test documentation
