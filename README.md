@@ -15,6 +15,7 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
+* [Syllabus ISTQB 3.1.1.7](https://sjsi.org/download/6351/?tmstv=1686117277)
 # Blogs, thematic websites
 * [Testerzy.pl](https://testerzy.pl/)
 * [Technika programowania](https://www.youtube.com/@TechnikaProgramowania)
