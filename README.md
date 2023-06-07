@@ -29,8 +29,8 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * [Testuj.pl](https://www.youtube.com/@testujplcommunity/featured)
 * [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # Webinars, Meetups
-[Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
-[KraQA - 12.06.2023 - not confirmed yet](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
+* [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
+* [KraQA - 12.06.2023 - not confirmed yet](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
 # My Test documentation
 To be filled. Tests will also be performed on the platform [UTest](https://utest.com/about-us).
 
