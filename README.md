@@ -21,7 +21,6 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * [Technika programowania](https://www.youtube.com/@TechnikaProgramowania)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [Interaktywny kurs języka SQL](https://brasil.cel.agh.edu.pl/~11smdrobniak/intro.html)
-* [Oracle DevGym](https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::) - To be studied after completing the two SQL links above and linking the database to the github repository.
 * [UTest](https://utest.com/about-us) - a destination for gaining experience on my own.
 * [Tester - Milena Bednarczyk blog](https://tester.milenabednarczyk.pl/)
 * [BugFree blog](https://bugfreeblog.com/)
