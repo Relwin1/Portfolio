@@ -4,7 +4,7 @@
 Welcome!
 I am a graduate of technical and IT studies in the field of Computer Aided Engineering Processes at the AGH University of Science and Technology in Krakow. I have worked so far as a constructor-technologist in a foundry and as a cost estimator in construction and metal processing companies. Since May 2023, I decided to become a software tester. I intend to take the next stationary exam ISTQB Certified Tester - Basic Level conducted by the [Association of Information Systems Quality](https://sjsi.org/).
 # Tools used
-* **MS Excel** - advanced support, excluding macro support. I have been using this tool successively for years both at university and at work.
+* **MS Excel** - advanced level, excluding macro support. I have been using this tool successively for years both at university and at work.
 # Courses
 * Section to be filled. Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
 # Books read
