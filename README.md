@@ -8,7 +8,7 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 # Courses
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g) - currently in study.
 # Certificates
-* Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
+* Currently, self-study is conducted based on ISTQB FL syllabus 3.1. Soon - date of exam.
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
