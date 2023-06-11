@@ -32,8 +32,10 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * [KraQA - 12.06.2023 18:00 - not confirmed yet](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
+# Crowdtesting
+* Tests will also be performed on the platform [UTest](https://utest.com/about-us).
 # My Test documentation
-To be filled. Tests will also be performed on the platform [UTest](https://utest.com/about-us).
+To be filled. 
 
 * Bug Reports
 
