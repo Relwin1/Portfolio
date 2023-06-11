@@ -6,7 +6,9 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 # Tools used
 * **MS Excel** - advanced level, excluding macro support. I have been using this tool successively for years both at university and at work.
 # Courses
-* Section to be filled. Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
+* [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g) - currently in study.
+# Certificates
+* Currently, self-study is conducted based on ISTQB FL syllabus 3.1.
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
