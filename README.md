@@ -6,9 +6,7 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 # Tools used
 * **MS Excel** - advanced level, excluding macro support. I have been using this tool successively for years both at university and at work.
 # Courses
-* [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g) - currently in study.
-# Certificates
-* Currently, self-study is conducted based on ISTQB FL syllabus 3.1. Soon - date of exam.
+* [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
@@ -16,23 +14,19 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 # Blogs, thematic websites
 * [Testerzy.pl](https://testerzy.pl/)
 * [Technika programowania](https://www.youtube.com/@TechnikaProgramowania)
-* [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/) - marked for study.
-* [Interaktywny kurs języka SQL](https://brasil.cel.agh.edu.pl/~11smdrobniak/intro.html) - marked for study.
-* [UTest](https://utest.com/about-us) - a destination for gaining experience on my own.
+* [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [Tester - Milena Bednarczyk blog](https://tester.milenabednarczyk.pl/)
 * [BugFree blog](https://bugfreeblog.com/)
 * [MrBuggy](http://mrbuggy.pl/) - marked for mr. buggy program.
 * [Testuj.pl](https://www.youtube.com/@testujplcommunity/featured)
-* [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/) - marked for future reading.
+* [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # Webinars
 * [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
 # Meetups
-* [KraQA - 12.06.2023 18:00 - not confirmed yet](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
+* [KraQA - 12.06.2023 18:00](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
-# Crowdtesting
-* Tests will also be performed on the platform [UTest](https://utest.com/about-us).
 # My Test documentation
 To be filled. 
 
