@@ -1,8 +1,10 @@
 # Tester's Portfolio
 
 # Introduction about me
-Welcome!
-I am a graduate of technical and IT studies in the field of Computer Aided Engineering Processes at the AGH University of Science and Technology in Krakow. I have worked so far as a constructor-technologist in a foundry and as a cost estimator in construction and metal processing companies. Since May 2023, I decided to become a software tester.
+* Aspiring Software Tester with 3 years of experience in CAD engineering and cost estimating. Recently, I changed my career from CAD engineering and cost estimation to software testing due to change of goals and passion.
+* Currently, I focus on gaining knowledge and experience on manual testing of API. I am going to use Jira, Postman, github as my first tools.
+* 💻 Check out my [LinkedIn Profile](https://www.linkedin.com/in/karol-migon/)
+* 🔎 Each day is an opportunity to learn!
 # Tools used
 * **MS Excel** - advanced level, excluding macro support. I have been using this tool successively for years both at university and at work.
 # Courses
@@ -22,6 +24,7 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
 # Meetups
 * [KraQA - 12.06.2023 18:00](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
+* [KraQA - 26.06.2023 18:00 - going to attend](https://www.meetup.com/pl-PL/kraqa-pl/events/294225223/)
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Test documentation
