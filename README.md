@@ -41,7 +41,7 @@ To be filled.
 # My Projects
 To be filled.
 
-# Study Plan (materials marked for future use, links I haven't studied yet)
+# Study Plan (Not read/watched yet)
 * [How To Learn Software Testing & Automation - Massive guide with multiple video and udemy courses made by Mr.Pavan](https://www.youtube.com/watch?v=F7W0N8ABt6Y)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
