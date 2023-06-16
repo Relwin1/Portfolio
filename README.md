@@ -20,7 +20,7 @@ Currently, I focus on gaining knowledge and experience on manual testing of API.
 * [BugFree blog](https://bugfreeblog.com/)
 * [Testuj.pl](https://www.youtube.com/@testujplcommunity/featured)
 # Webinars
-* [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
+* [Webinar GoIT - LIVE](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
 # Meetups
 * [KraQA - 12.06.2023 18:00](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
