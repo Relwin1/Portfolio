@@ -14,12 +14,9 @@ I am a graduate of technical and IT studies in the field of Computer Aided Engin
 # Blogs, thematic websites
 * [Testerzy.pl](https://testerzy.pl/)
 * [Technika programowania](https://www.youtube.com/@TechnikaProgramowania)
-* [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [Tester - Milena Bednarczyk blog](https://tester.milenabednarczyk.pl/)
 * [BugFree blog](https://bugfreeblog.com/)
-* [MrBuggy](http://mrbuggy.pl/) - marked for mr. buggy program.
 * [Testuj.pl](https://www.youtube.com/@testujplcommunity/featured)
-* [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # Webinars
 * [Webinar GoIT](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
@@ -40,3 +37,10 @@ To be filled.
 
 # My Projects
 To be filled.
+
+#Study Plan (materials marked for future use, links I haven't studied yet)
+* [How To Learn Software Testing & Automation - Massive guide with multiple video and udemy courses made by Mr.Pavan](https://www.youtube.com/watch?v=F7W0N8ABt6Y)
+* [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
+* [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
+* [MrBuggy](http://mrbuggy.pl/)
+* [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
