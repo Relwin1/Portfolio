@@ -2,7 +2,7 @@
 
 # Introduction about me
 Aspiring Software Tester with 3 years of experience in CAD engineering and cost estimating. Recently, I changed my career from CAD engineering and cost estimation to software testing due to change of goals and passion.
-Currently, I focus on gaining knowledge and experience on manual testing of API. I am going to use Jira, Postman, github as my first tools.
+Currently, I am focusing on gaining knowledge and experience on manual and automated testing of APIs. I am going to use Jira, Postman, and github as my first tools.
 * 💻 Check out my [LinkedIn Profile](https://www.linkedin.com/in/karol-migon/)
 * 🔎 Each day is an opportunity to learn!
 # Tools used
