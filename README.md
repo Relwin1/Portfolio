@@ -25,7 +25,6 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
 # Meetups
 * [KraQA - 12.06.2023 18:00](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
-* [KraQA - 26.06.2023 18:00 - going to attend](https://www.meetup.com/pl-PL/kraqa-pl/events/294225223/)
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Test documentation
