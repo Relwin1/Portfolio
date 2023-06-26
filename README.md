@@ -8,8 +8,8 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Tools used
 * **MS Excel** - advanced level, excluding macro support. I have been using this tool successively for years both at university and at work.
 # Courses
-* [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
-* [Manual Software Testing Training by Mr. Pavan](https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9) - currently in progress
+* [Technika programowania - Kurs testowanie oprogramowania - 3,5 hours](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
+* [Manual Testing, STLC, Agile, Jira, e-Commerce Project by Mr. Pavan - 20 hours](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/) - currently in progress
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
