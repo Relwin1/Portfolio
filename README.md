@@ -13,7 +13,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
-* [Syllabus ISTQB 3.1.1.7](https://sjsi.org/download/6351/?tmstv=1686117277)
+* [Syllabus ISTQB 3.1.1.7](https://sjsi.org/download/6351/?tmstv=1686117277) - [Personal notes (in Polish) review only](https://drive.google.com/file/d/1_NU386MXMg_vqOMMll1vQkI22DS-j9fK/view?usp=drive_link)
 # Blogs, thematic websites
 * [Testerzy.pl](https://testerzy.pl/)
 * [Technika programowania](https://www.youtube.com/@TechnikaProgramowania)
