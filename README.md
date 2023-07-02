@@ -15,7 +15,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
 * [Syllabus ISTQB 3.1.1.7](https://sjsi.org/download/6351/?tmstv=1686117277) - [Personal notes (in Polish) review only](https://drive.google.com/file/d/1_NU386MXMg_vqOMMll1vQkI22DS-j9fK/view?usp=drive_link)
 # Roadmaps
-* [Roadmap to QA/Automation Tester | How To Become an Automation Tester | Where & How To start?](https://www.youtube.com/watch?v=Hjt0SCeGrBY)
+* [Roadmap to QA/Automation Tester | How To Become an Automation Tester | Where & How To start? made by Mr. Pavan](https://www.youtube.com/watch?v=Hjt0SCeGrBY)
 * [How To Learn Software Testing & Automation - Massive guide with multiple video and udemy courses made by Mr.Pavan](https://www.youtube.com/watch?v=F7W0N8ABt6Y)
 # Blogs, thematic websites
 * [Testerzy.pl](https://testerzy.pl/)
