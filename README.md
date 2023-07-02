@@ -43,6 +43,7 @@ To be filled.
 
 # Study Plan (Not read/watched yet)
 * [How To Learn Software Testing & Automation - Massive guide with multiple video and udemy courses made by Mr.Pavan](https://www.youtube.com/watch?v=F7W0N8ABt6Y)
+* [Roadmap to QA/Automation Tester | How To Become an Automation Tester | Where & How To start?](https://www.youtube.com/watch?v=Hjt0SCeGrBY)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [MrBuggy](http://mrbuggy.pl/)
