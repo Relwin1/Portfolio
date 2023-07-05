@@ -24,7 +24,6 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [BugFree blog](https://bugfreeblog.com/)
 * [Testuj.pl](https://www.youtube.com/@testujplcommunity/featured)
 * [SamouczekProgramisty.pl - HTTP Protocol](https://www.samouczekprogramisty.pl/protokol-http/#fn:polski)
-* [Mozilla HTTP Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 # Webinars
 * [Webinar GoIT - LIVE](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
@@ -52,3 +51,4 @@ To be filled.
 * [MrBuggy](http://mrbuggy.pl/)
 * [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [W3School Web Development](https://www.w3schools.com/whatis/default.asp)
+* [Mozilla HTTP Detailed Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
