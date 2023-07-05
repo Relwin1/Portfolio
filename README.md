@@ -51,3 +51,4 @@ To be filled.
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [MrBuggy](http://mrbuggy.pl/)
 * [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* [W3School Web Development](https://www.w3schools.com/whatis/default.asp)
