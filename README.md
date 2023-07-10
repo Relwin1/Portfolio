@@ -38,9 +38,9 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * **Test Reports**
 * [OpenCart - waiting for next stage]()
 * **Test Cases**
-* [OpenCart - in being designed]()
+* [OpenCart - test cases are being designed]()
 * **Test Scenarios**
-* [OpenCart - in being designed]()
+* [OpenCart - test scenarios are being designed]()
 # My Projects
 * E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is educational project with purpose to practice manual testing skills gained from courses and ISTQB syllabus. **Status: test scanrios & cases designing phase.**
 # Study Plan (Not read/watched yet)
