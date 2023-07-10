@@ -42,7 +42,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * **Test Scenarios**
 * [OpenCart - in being designed]()
 # My Projects
-* E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is educational project with purpose to practice manual testing skills gained from courses and ISTQB syllabus. Status: test scanrios & cases designing phase. 
+* E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is educational project with purpose to practice manual testing skills gained from courses and ISTQB syllabus. **Status: test scanrios & cases designing phase.**
 # Study Plan (Not read/watched yet)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
