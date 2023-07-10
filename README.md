@@ -27,6 +27,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Webinars
 * [Webinar GoIT - LIVE](https://w.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=20210975415&utm_term=149250736786|660259163913||goit%20webinar&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xGVdJP7670mJRVtXR3Q-5OrDd926rzp8Yd_ep_N5NUwmJ_gsUn98kaAiqmEALw_wcB)
 * [Junior Tester](https://www.youtube.com/watch?v=6hj1xXokWWU)
+* [Co nowego w CTFL 4.0? Event by AmberTeam Testing Sp. z o. o.](https://www.linkedin.com/events/7082342891947196416/comments/)
 # Meetups
 * [KraQA - 12.06.2023 18:00](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
 # Community groups
@@ -34,16 +35,16 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # My Test documentation
 To be filled. 
 
-* Bug Reports
-
-* Test Reports
-
-* Test Cases
-
-* Test Scenarios
-
+* **Bug Reports**
+* [OpenCart - waiting for next stage]()
+* **Test Reports**
+* [OpenCart - waiting for next stage]()
+* **Test Cases**
+* [OpenCart - in being designed]()
+* **Test Scenarios**
+* [OpenCart - in being designed]()
 # My Projects
-To be filled.
+* E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is educational project with purpose to practice manual testing skills gained from courses and ISTQB syllabus. Status: test scanrios & cases designing phase. 
 
 # Study Plan (Not read/watched yet)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
