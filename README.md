@@ -33,8 +33,6 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Test documentation
-To be filled. 
-
 * **Bug Reports**
 * [OpenCart - waiting for next stage]()
 * **Test Reports**
@@ -44,9 +42,7 @@ To be filled.
 * **Test Scenarios**
 * [OpenCart - in being designed]()
 # My Projects
-* E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is educational project with purpose to practice manual testing skills gained from courses and ISTQB syllabus.
-* Status: test scanrios & cases designing phase. 
-
+* E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is educational project with purpose to practice manual testing skills gained from courses and ISTQB syllabus. Status: test scanrios & cases designing phase. 
 # Study Plan (Not read/watched yet)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
