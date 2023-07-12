@@ -7,7 +7,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * 🔎 Each day is an opportunity to learn!
 # Tools used
 * **MS Excel** - advanced level, excluding macro support. I have been using this tool successively for years both at university and at work.
-* **XAMPP** - used for educational e-commerce project to set up a test environment for tests.
+* **XAMPP** - used for educational e-commerce project to set up a test environment.
 * **MySQL Workbench** - used for backend testing of educational e-commerce project.
 * **Phpmyadmin** - alternative tool used in localhost environment for testing of education e-commerce project
 # Courses
