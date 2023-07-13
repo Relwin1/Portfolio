@@ -14,7 +14,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile, Jira, e-Commerce Project by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/) - currently in progress
 # Certificates
-* ISTQB Foundation Level - Exam scheduled for 14.09.2023 on-site in Cracow.
+* ISTQB Foundation Level - Exam scheduled: 14.09.2023 on-site in Cracow.
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
