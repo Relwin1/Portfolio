@@ -15,7 +15,6 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Courses
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile methodologies, Jira, Zephyr by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
-* [SQL for testers - MySQL](https://www.youtube.com/watch?v=wifRYaPiiM0&list=PLUDwpEzHYYLt0aRs7gvyEEviMp_CoTO3q) - currently in progress
 # Certificates
 * ISTQB Foundation Level - Exam scheduled: 14.09.2023 on-site in Cracow.
 # Books read
