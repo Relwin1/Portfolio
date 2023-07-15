@@ -14,7 +14,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * **Zephyr** - plugin to Jira for creation of test cases, test cycles, test executions and reports. Used after designing and reviewing test scenarios & cases written in excel sheet (then imported to Zephyr).
 # Courses
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
-* [Manual Testing, STLC, Agile, Jira, e-Commerce Project by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/) - currently in progress
+* [Manual Testing, STLC, Agile, Jira, e-Commerce Project by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
 # Certificates
 * ISTQB Foundation Level - Exam scheduled: 14.09.2023 on-site in Cracow.
 # Books read
