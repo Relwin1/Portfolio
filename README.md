@@ -12,6 +12,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * **Phpmyadmin** - alternative tool used in localhost environment for testing of education e-commerce project
 * **Jira** - Agile Management Tool for creating Epics, Stories, Tasks, Bug Reports, SCRUM sprints, estimating story points etc. Used for education e-commerce project.
 * **Zephyr** - plugin to Jira for creation of test cases, test cycles, test executions and reports. Used after designing and reviewing test scenarios & cases written in excel sheet (then imported to Zephyr).
+* **GitHub** - used also for storage of versions/stages of my projects.
 # Courses
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile methodologies, Jira, Zephyr by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
