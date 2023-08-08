@@ -16,7 +16,6 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Courses
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile methodologies, Jira, Zephyr by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
-* [Unix/Linux for Testers](https://www.youtube.com/watch?v=LxrKRkCyRwU&list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F) - currently in progress
 # Certificates
 * ISTQB Foundation Level - Exam scheduled: 14.09.2023 on-site in Cracow.
 # Books read
@@ -55,6 +54,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # My Projects
 * E-Commerce Project "OpenCart" has started. Build has been installed on local machine with MySQL DB and Apache. This is an educational project with the purpose of practicing manual testing skills gained from courses and ISTQB syllabus. **Status: test scenarios & cases designing phase.**
 # Study Plan (Not read/watched yet)
+* [Unix/Linux for Testers](https://www.youtube.com/watch?v=LxrKRkCyRwU&list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
 * [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
 * [MrBuggy](http://mrbuggy.pl/)
