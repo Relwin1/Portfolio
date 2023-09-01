@@ -43,6 +43,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Test documentation
+* Note: Work over e-commerce stopped mid-progress due to sickness and surgery. To be resumed after ISTQB exam - 14.09.2023.
 * **Bug Reports**
 * [OpenCart - waiting for next stage]()
 * **Test Reports**
