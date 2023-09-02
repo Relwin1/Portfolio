@@ -44,7 +44,8 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Projects
 * Small project "[SauceDemo](https://github.com/Relwin1/Portfolio/blob/c075e48a5711b1c1d27a4301a077b8ba8bb5aaa7/Karol%20Migo%C5%84_Task%20%5BPreview%20only%5D.xlsx)" performed as task for recruitment process.
-* E-Commerce Project "[OpenCart]" has started. Build has been installed on local machine with MySQL DB and Apache. This is an educational project with the purpose of practicing manual testing skills gained from courses and ISTQB syllabus. Note: Work over project stopped mid-progress due to sickness and surgery 01.08.2023-31.08.2023.
+* E-Commerce Project "[OpenCart](https://github.com/Relwin1/Portfolio/blob/f15f6e491097fe78026e7bcd5f9488353a0ec32a/OpenCart%20Project%20%5BPreview%20only%5D.xlsx)" has started.
+* Build has been installed on local machine with MySQL DB and Apache. This is an educational project with the purpose of practicing manual testing skills gained from courses and ISTQB syllabus. Note: Work over project stopped mid-progress due to sickness and surgery 01.08.2023-31.08.2023.
 # Study Plan (Not read/watched yet)
 * [Unix/Linux for Testers](https://www.youtube.com/watch?v=LxrKRkCyRwU&list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
 * [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
