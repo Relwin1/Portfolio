@@ -17,7 +17,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile methodologies, Jira, Zephyr by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
 # Certificates
-* ISTQB Foundation Level - Exam scheduled: 14.09.2023 on-site in Cracow.
+* ISTQB Foundation Level
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
@@ -45,11 +45,3 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # My Projects
 * Small project "[SauceDemo](https://github.com/Relwin1/Portfolio/blob/c075e48a5711b1c1d27a4301a077b8ba8bb5aaa7/Karol%20Migo%C5%84_Task%20%5BPreview%20only%5D.xlsx)" performed as task for recruitment process.
 * E-Commerce Project "[OpenCart](https://github.com/Relwin1/Portfolio/blob/f15f6e491097fe78026e7bcd5f9488353a0ec32a/OpenCart%20Project%20%5BPreview%20only%5D.xlsx)" - Build has been installed on local machine with MySQL DB and Apache. This is an educational project with the purpose of practicing manual testing skills gained from courses and ISTQB syllabus. Note: Work over project has resumed after sickness and surgery break 01.08.2023-31.08.2023.
-# Study Plan (Not read/watched yet)
-* [Unix/Linux for Testers](https://www.youtube.com/watch?v=LxrKRkCyRwU&list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
-* [SDET - QA website made by Mr. Pavan](https://www.pavantestingtools.com/)
-* [W3SCHOOL SQL Tutorial](https://www.w3schools.com/sql/)
-* [MrBuggy](http://mrbuggy.pl/)
-* [PWicherski gitbook](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* [W3School Web Development](https://www.w3schools.com/whatis/default.asp)
-* [Mozilla HTTP Detailed Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
