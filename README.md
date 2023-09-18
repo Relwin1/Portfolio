@@ -17,7 +17,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile methodologies, Jira, Zephyr by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
 # Certificates
-* ISTQB Foundation Level [PL](https://github.com/Relwin1/Portfolio/blob/main/CTFL3-2023-21116-SJSI_PL_Karol_Migon.pdf) [EN](https://github.com/Relwin1/Portfolio/blob/main/CTFL3-2023-21116-SJSI_EN_Karol_Migon.pdf)
+* ISTQB Foundation Level [PL](https://github.com/Relwin1/Portfolio/blob/main/CTFL3-2023-21116-SJSI_PL_Karol_Migon.pdf), [EN](https://github.com/Relwin1/Portfolio/blob/main/CTFL3-2023-21116-SJSI_EN_Karol_Migon.pdf)
 # Books read
 * Radosław Smilgin "Zawód TESTER - Od decycji do pierwszych kroków w pracy" edition 1, Wydawnictwo Naukowe PWN SA, 2016.
 * Rafał Pawlak "Testowanie Oprogramowania - podręcznik dla początkujących", Helion.
