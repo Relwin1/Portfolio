@@ -39,7 +39,8 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [What's new in CTFL 4.0? Event by AmberTeam Testing Sp. z o. o.](https://www.youtube.com/watch?v=FYdxT6n_u9o)
 * [Experienced Web Developer Discovers Postman: First Dive into API Testing](https://www.linkedin.com/events/experiencedwebdeveloperdiscover7075539376943845376/theater/)
 # Meetups
-* [KraQA - 12.06.2023 18:00](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
+* [KraQA #60 - 12.06.2023](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
+* [KraQA-Capgemini 04.10.2023](https://www.meetup.com/kraqa-pl/events/296355922/) - Going to attend.
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Projects
