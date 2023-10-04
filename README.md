@@ -40,7 +40,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 * [Experienced Web Developer Discovers Postman: First Dive into API Testing](https://www.linkedin.com/events/experiencedwebdeveloperdiscover7075539376943845376/theater/)
 # Meetups
 * [KraQA #60 - 12.06.2023](https://www.meetup.com/pl-PL/kraqa-pl/events/293991834/)
-* [KraQA-Capgemini 04.10.2023](https://www.meetup.com/kraqa-pl/events/296355922/) - Planning to attend.
+* [KraQA-Capgemini 04.10.2023](https://www.meetup.com/kraqa-pl/events/296355922/)
 # Community groups
 * [KraQA](https://www.meetup.com/pl-PL/KraQA-pl/)
 # My Projects
