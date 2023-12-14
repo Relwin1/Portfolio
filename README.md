@@ -17,6 +17,7 @@ Currently, I am focusing on gaining knowledge and experience on manual and autom
 # Courses
 * [Technika programowania - Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g)
 * [Manual Testing, STLC, Agile methodologies, Jira, Zephyr by Mr. Pavan](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
+* [ISTQB Certification - QA Manual Tester](https://www.youtube.com/watch?v=Wb-g7tPO2Gw&list=PLUDwpEzHYYLsMt3L4MnvmsL_DhxUNTW6J&index=1)
 * [Unix/Linux for Testers](https://www.youtube.com/watch?v=LxrKRkCyRwU&list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
 # Certificates
 * ISTQB Foundation Level [PL](https://github.com/Relwin1/Portfolio/blob/main/CTFL3-2023-21116-SJSI_PL_Karol_Migon.pdf), [EN](https://github.com/Relwin1/Portfolio/blob/main/CTFL3-2023-21116-SJSI_EN_Karol_Migon.pdf)
